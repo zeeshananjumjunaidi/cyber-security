@@ -1,2 +1,1 @@
-# cyber-security
-Cyber security
+# Cyber Security
